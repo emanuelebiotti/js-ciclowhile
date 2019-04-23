@@ -27,4 +27,7 @@ if (presente) {
   cognomi.push(tuocognome);
 }
 console.log(cognomi.sort());
+
+//o anche, volendo:
+
 document.writeln(cognomi.sort());
